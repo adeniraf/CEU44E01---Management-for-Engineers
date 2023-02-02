@@ -1,4 +1,4 @@
-# CEU44E01---Management-for-Engineers
+# CEU44E01 - Management-for-Engineers
 This repository contains all assignment submissions for the CEU44E01 - Management for Engineers module at Trinity College Dublin.
 
 # Grades Achieved:
